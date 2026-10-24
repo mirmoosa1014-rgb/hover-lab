@@ -10,6 +10,6 @@
 - [x] Four PNG plots visually inspected; real simulated GIF and actual dashboard screenshot included.
 - [x] Saved configurations, seeds, versions, metrics, representative traces and computed report.
 - [x] MIT license, explanation, demo script and AI-assistance disclosure.
-- [ ] Hosted GitHub CI: pending first push; check the repository Actions tab for latest status.
+- [x] Hosted GitHub CI passed fresh Linux installation, all tests, and the smoke benchmark: [verified run](https://github.com/mirmoosa1014-rgb/hover-lab/actions/runs/40046318985).
 
-Limitations: no real-world validation, no independently optimal controller tuning, no continuous-time noise model, and no motor/attitude/battery dynamics. Clean-copy verification reused installed dependencies; hosted CI will separately test fresh installation on Linux. Source and reports on GitHub do not host the running app.
+Limitations: no real-world validation, no independently optimal controller tuning, no continuous-time noise model, and no motor/attitude/battery dynamics. Clean-copy verification reused installed dependencies; hosted CI separately passed fresh installation on Linux. Source and reports on GitHub do not host the running app.
